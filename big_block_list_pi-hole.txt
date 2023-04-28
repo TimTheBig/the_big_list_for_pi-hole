@@ -1,3 +1,7 @@
+license: GNU GENERAL PUBLIC LICENSE
+# list:
+
+#tv_block_list_for_pi-hole:
 #general
 ad.360yield.com
 ad.doubleclick.net
