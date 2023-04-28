@@ -64182,7 +64182,7 @@ zzzzzzzzzzzzzzz.hyperphp.com CNAME .
 бенар.рф CNAME .
 даръ.рус CNAME .
 имяенн.010.рус CNAME .
-ру-флекс.рф CNAME .
+ру-флекс.рф
 
 
 
