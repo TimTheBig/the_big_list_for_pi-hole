@@ -11,6 +11,9 @@ graph.facebook.com
 api2.amplitude.com
 identity-api.myfitnesspal.com
 collector.github.com
+log.quora.com
+metrics.amd.com
+metrics.roblox.com
 
 #for microsoft
 clientfd.family.microsoft.com
