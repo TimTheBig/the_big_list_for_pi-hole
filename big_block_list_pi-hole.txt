@@ -10,6 +10,7 @@ google-analytics.com
 graph.facebook.com
 api2.amplitude.com
 identity-api.myfitnesspal.com
+collector.github.com
 
 #for microsoft
 clientfd.family.microsoft.com
