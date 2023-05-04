@@ -37,6 +37,7 @@ aax-eu.amazon-adsystem.com
 apiproxy-device-prod-nlb-2-300c995e1ce8a001.elb.us-east-1.amazonaws.com
 advertising-api.amazon.com
 fls-eu.amazon-adsystem.com
+fls-na.amazon-adsystem.com
 
 #for samsung
 ads.samsung.com
