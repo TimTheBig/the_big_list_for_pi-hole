@@ -1186,10 +1186,8 @@ streamingaudio.g.aaplimg.com
 streamingaudio.itunes.apple.com
 su-applak.itunes-apple.com.akadns.net
 su.itunes.apple.com
-support.apple.com
 swcdn.apple.com
 swscan.apple.com
-sync.itunes.apple.com
 tbsc.apple.com
 tbsc.apple.com.akadns.net
 tf-feedback.itunes.apple.com
@@ -1225,7 +1223,6 @@ wu.apple.com.akadns.net
 wu-calculator.apple.com
 wu-mdn.apple.com.akadns.net
 wu-nwk.apple.com.akadns.net
-www.apple.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.buglife.com
