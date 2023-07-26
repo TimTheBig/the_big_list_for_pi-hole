@@ -1131,7 +1131,6 @@ service.gc.apple.com
 service.gc-apple.com.akadns.net
 settings.crashlytics.com
 setup.fe.apple-dns.net
-setup.icloud.com
 sf-api-token-service.itunes.apple.com
 silverbullet-external-ats.itunes.apple.com
 silverbullet-external-ats.itunes-apple.com.akadns.net
@@ -1191,13 +1190,8 @@ swscan.apple.com
 tbsc.apple.com
 tbsc.apple.com.akadns.net
 tf-feedback.itunes.apple.com
-time.apple.com
-time-ios.apple.com
-time-ios.g.aaplimg.com
-time-macos.apple.com
 time-osx.g.aaplimg.com
 tr.iadsdk.apple.com
-tv.apple.com
 uic.itunes.apple.com
 updates-http.cdn-apple.com
 upp.itunes.apple.com
@@ -1216,7 +1210,6 @@ uts-preview.itunes.apple.com
 videos.apple.com
 vocabulary.itunes.apple.com
 vpp-app.itunes.apple.com
-weather.com
 web-experience.itunes.apple.com
 world-gen.g.aaplimg.com
 wu.apple.com.akadns.net
@@ -1227,8 +1220,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.buglife.com
 www-cdn.icloud.com.akadns.net
-www.icloud.com
-xp.apple.com
 xp.itunes-apple.com.akadns.net
 zeusmedia.apple.com
 zeusmedia.g.aaplimg.com
