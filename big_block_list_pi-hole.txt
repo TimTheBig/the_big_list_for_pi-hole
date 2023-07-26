@@ -420,10 +420,7 @@ aod.itunes.g.aaplimg.com
 api-aka.smoot.apple.com
 api.apple-cloudkit.com
 api.apple-cloudkit.fe.apple-dns.net
-api.apps.apple.com
 api-apps-lb.itunes-apple.com.akadns.net
-api.books.apple.com
-api.developer.apple.com
 api-edge.apps.apple.com
 api.edu.apple.com
 api-glb-ams.smoot.apple.com
@@ -450,7 +447,6 @@ appleid.apple.com
 appleid.apple.com.akadns.net
 appleid.cdn-apple.com
 apple-mobile.query.yahooapis.com
-apple.news
 appleweather-cache.internal.query.g03.yahoodns.net
 apps.itunes-nocookie.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
@@ -471,12 +467,9 @@ beta.itunes.apple.com
 bn2-client-s.msnmessenger.msn.com.akadns.net
 bookkeeper.itunes.apple.com
 books-analytics-events.apple.com
-books.apple.com
-buy.itunes.apple.com
 buy.itunes-apple.com.akadns.net
 caldav.fe.apple-dns.net
 caldav.icloud.com
-captive.apple.com
 captive-cdn.origin-apple.com.akadns.net
 captive-cidr.origin-apple.com.akadns.net
 captive.g.aaplimg.com
@@ -505,7 +498,6 @@ commnat-cohort.ess.apple.com
 commnat-cohort-gc.ess.apple.com
 commnat-main.ess.apple.com
 commnat-main-gc.ess.apple.com
-configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration.ls.apple.com
@@ -665,7 +657,6 @@ itc.mzstatic.com
 itunes.apple.com
 itunes.apple.com.edgekey.net
 itunes-cdn.itunes-apple.com.akadns.net
-itunes.com
 itunesconnect.apple.com
 itunesu.itunes.apple.com
 keyvalueservice.fe.apple-dns.net
@@ -688,12 +679,10 @@ mt-ingestion-service-pv.itunes.apple.com
 mt-ingestion-service-pv.itunes-apple.com.akadns.net
 mt-ingestion-service-st11.itunes-apple.com.akadns.net
 mu21p02sa.guzzoni-apple.com.akadns.net
-music.apple.com
 mzstatic.com
 mzuserxp.itunes-apple.com.akadns.net
 nc-pod1-smp-device.apple.com
 nc-pod1-smp-device.gcsis-apple.com.akadns.net
-news.apple.com
 np.itunes.apple.com
 ns.itunes.apple.com
 ns.itunes-apple.com.akadns.net
@@ -1082,7 +1071,6 @@ play-cdn.itunes-apple.com.akadns.net
 play.itunes.apple.com
 play.itunes-apple.com.akadns.net
 play.itunes.apple.com.edgesuite.net
-podcasts.apple.com
 pop-eur-benelux-courier.push-apple.com.akadns.net
 pop-eur-central-courier.push-apple.com.akadns.net
 pop-namer-central-courier.push-apple.com.akadns.net
@@ -1142,9 +1130,7 @@ smp-paymentservices.apple.com
 s-mzstatic-applak.itunes-apple.com.akadns.net
 s.mzstatic.com
 sp11p03sa.guzzoni-apple.com.akadns.net
-sp.itunes.apple.com
 sp.itunes-apple.com.akadns.net
-ssl.apple.com
 static.deviceservices.apple.com
 static.ess.apple.com
 static.gc.apple.com
@@ -1190,7 +1176,6 @@ swscan.apple.com
 tbsc.apple.com
 tbsc.apple.com.akadns.net
 tf-feedback.itunes.apple.com
-time-osx.g.aaplimg.com
 tr.iadsdk.apple.com
 uic.itunes.apple.com
 updates-http.cdn-apple.com
