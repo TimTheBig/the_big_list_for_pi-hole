@@ -443,9 +443,6 @@ appldnld.apple.com
 appldnld.apple.com.akadns.net
 appldnld.g.aaplimg.com
 apple-finance.query.yahoo.com
-appleid.apple.com
-appleid.apple.com.akadns.net
-appleid.cdn-apple.com
 apple-mobile.query.yahooapis.com
 appleweather-cache.internal.query.g03.yahoodns.net
 apps.itunes-nocookie.com
@@ -455,7 +452,6 @@ apptrailers.itunes.apple.com
 apptrailers.itunes.g.aaplimg.com
 apsu.apple.com
 ax.init.itunes.apple.com
-ax.itunes.apple.com
 ax.phobos.apple.com.edgesuite.net
 b1.mzstatic.com
 b2.mzstatic.com
