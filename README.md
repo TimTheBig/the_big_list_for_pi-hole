@@ -3,6 +3,8 @@
 
 link:
 https://raw.githubusercontent.com/TimTheBig/the_big_list_for_pi-hole/main/big_block_list_pi-hole.txt
+with youtube ad block list (ineffective):
+https://raw.githubusercontent.com/TimTheBig/the_big_list_for_pi-hole/main/big_block_list_pi-hole_youtube.txt
 
 This list is tested 24/7 by me and is in a troubleshooting phase
 
