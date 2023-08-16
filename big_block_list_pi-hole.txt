@@ -47638,7 +47638,6 @@ ztd.dds.microsoft.com
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 27 Apr 2023
-# LatestVersion 22.10
 # Domain Count: 16618
 #===============================================================
 
