@@ -2,7 +2,7 @@
 ! Expires: 5 days
 # list:
 
-!#include YouTubeEvenMorePureVideoExperience.txt
+!#include tv_block_list_for_pi-hole.txt
 ! >>>>>>>> https://raw.githubusercontent.com/TimTheBig/tv_block_list_for_pi-hole/main/TV_block_pi-hole.txt
 ! Title: ▶️ tv_block_list_for_pi-hole
 ! Expires: 6 days
