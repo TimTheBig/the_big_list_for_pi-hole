@@ -1,12 +1,31 @@
 ! license: GNU GENERAL PUBLIC LICENSE
-! Expires: 5 days
+! Expires: 4 days
 # list:
 
-!#include YouTubeEvenMorePureVideoExperience.txt
-! >>>>>>>> https://raw.githubusercontent.com/TimTheBig/tv_block_list_for_pi-hole/main/TV_block_pi-hole.txt
-! Title: ▶️ tv_block_list_for_pi-hole
-! Expires: 6 days
-
+#tv_block_list_for_pi-hole:
+#general
+ad.360yield.com
+ad.doubleclick.net
+app-measurement.com
+google-analytics.com
+graph.facebook.com
+api2.amplitude.com
+identity-api.myfitnesspal.com
+collector.github.com
+log.quora.com
+metrics.amd.com
+metrics.roblox.com
+cloudflareinsights.com
+cdn-spurit.com
+cdnhub.co
+chartbeat.com
+chimpstatic.com
+dla.group
+dmca.com
+doppiocdn.com
+doppiocdn.org
+dotmetrics.net
+doubleclick.net
 
 #for microsoft
 clientfd.family.microsoft.com
