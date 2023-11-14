@@ -20,14 +20,15 @@ youtube.com#@#.overlay-ads
 ||console-telemetry.oci.oraclecloud.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
-||events.santander.co.uk
+||events.santander.co.uk^
 ||events-service.coinbase.com^
 ||events.shareably.net^
 ||google-analytics-cn.com^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
 ||googletagmanager-cn.com^
-||googletagmanager.com^go.ondutydoc.com^
+||googletagmanager.com^
+||go.ondutydoc.com^
 ||go.onecart.co.za^
 ||go.oracle.com^
 ||log.pinterest.com^
