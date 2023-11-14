@@ -48,7 +48,6 @@ youtube.com#@#.overlay-ads
 ||doppiocdn.org^
 ||dotmetrics.net^
 ||doubleclick.net^
-||flaticon.com^
 
 
 #for amazon
