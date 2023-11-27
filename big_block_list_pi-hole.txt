@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! license: GNU GENERAL PUBLIC LICENSE
 ! Expires: 5 days
-! Updated: 2023-11-27-6:17pm
+! Updated: 2023-11-27-6:38pm
 ! home page: https://github.com/TimTheBig/the_big_list_for_pi-hole
 
 ads.google.com,youtube.com#@#.video-ads
@@ -406,7 +406,7 @@ youtube.com#@#.overlay-ads
 ||osb-v2.samsungqbe.com^
 ||device-metrics-us-2.amazon.com^
 ||samsungqbe.com^
-||customerevents.net^flix.com^
+||customerevents.netflix.com^
 ||pool.ntp.org^
 
 
@@ -454,7 +454,7 @@ from seb999 / piHole-LgTV
 ||lgappstv.com^
 ||smartshare.lgtvsdp.com^
 ||lgappstv.com^
-# from https://www.reddit.com^/r/pihole/com^ments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
+# from https://www.reddit.com^/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
 ||us.ad.lgsmartad.com^
 ||lgad.cjpowercast.com.edgesuite.net^
 ||ngfts.lge.com^
@@ -474,9 +474,8 @@ from seb999 / piHole-LgTV
 ||guzzoni.apple.com^
 ||metrics.apple.com^
 ||securemvt.apple.com^
-||securemvt.apple.com.cn
-
-
+||securemvt.apple.com.cn^
+||gs-loc.apple.com^
 
 any-appleweather-cache.internal.query.a03.yahoodns.net
 aod.itunes.g.aaplimg.com
