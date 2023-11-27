@@ -2,6 +2,7 @@
 ! license: GNU GENERAL PUBLIC LICENSE
 ! Expires: 10 days
 ! home page: https://github.com/TimTheBig/the_big_list_for_pi-hole
+! Redirect: https://raw.githubusercontent.com/TimTheBig/the_big_list_for_pi-hole/main/big_block_list_pi-hole.txt
 ! Not fully updated
 
 
