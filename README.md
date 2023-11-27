@@ -4,8 +4,7 @@
 link:
 https://raw.githubusercontent.com/TimTheBig/the_big_list_for_pi-hole/main/big_block_list_pi-hole.txt
 
-with youtube ad list (ineffective):
-https://raw.githubusercontent.com/TimTheBig/the_big_list_for_pi-hole/main/big_block_list_pi-hole_youtube.txt
+With youtube ad list is ineffective.
 
 This list is tested  by me 24/7.
 
