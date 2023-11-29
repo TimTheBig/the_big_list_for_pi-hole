@@ -78,6 +78,37 @@ youtube.com#@#.overlay-ads
 ||settings-win.data.microsoft.com^
 
 
+#for bad tlds
+||degree^
+
+# from HaGeZi's The World's Most Abused TLDs
+||autos^
+||bid^
+||bio^
+||boats^
+||boston^
+||boutique^
+||cyou^
+||dance^
+||hair^
+||haus^
+||loan^
+||loans^
+||makeup^
+||mom^
+||name^
+||review^
+||rip^
+||sbs^
+||skin^
+||support^
+||tokyo^
+||uno^
+||voto^
+||website^
+||zip^
+
+
 #from  crazy-max / WindowsSpyBlocker 
 *.adnxs.com^
 *.ads*.msads.net^
