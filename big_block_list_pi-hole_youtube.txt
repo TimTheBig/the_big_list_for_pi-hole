@@ -51,6 +51,7 @@ youtube.com#@#.overlay-ads
 ||doppiocdn.org^
 ||dotmetrics.net^
 ||doubleclick.net^
+||provisioning-use2.mgmt.aibixby.com^
 
 
 #for amazon
