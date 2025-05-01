@@ -1,8 +1,8 @@
 [Adblock Plus]
 ! Title: big block list for pi-hole
-! license: GNU GENERAL PUBLIC LICENSE
-! Expires: 5 days
-! Updated: 2023-11-27-6:46pm
+! license: GNU GENERAL PUBLIC LICENSE, Version 3
+! Expires: 15 days
+! Updated: 2025-5-1-4:52pm
 ! Homepage: https://github.com/TimTheBig/the_big_list_for_pi-hole
 
 ads.google.com,youtube.com#@#.video-ads
